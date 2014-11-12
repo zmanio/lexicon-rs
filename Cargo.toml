@@ -1,0 +1,5 @@
+[package]
+
+name = "lexicon-rs"
+version = "0.0.1"
+authors = ["Lonnie Pryor III <z@zman.io>"]
